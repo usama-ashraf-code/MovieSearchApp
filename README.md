@@ -16,8 +16,8 @@ Movie Search App is a responsive web application built with **HTML**, **CSS**, a
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (ES6)
 - TMDB API
 
@@ -36,7 +36,7 @@ Movie-Search-App/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/usama-ashraf-code/movie-search-app.git
+git clone (https://github.com/usama-ashraf-code/MovieSearchApp.git)
 ```
 
 2. Open the project folder.
